@@ -1,0 +1,50 @@
+.banner {
+  background: url(/images/banner@.png);
+  background-repeat: no-repeat;
+  background-position: 300px 5px;
+  background-attachment: fixed;
+  height: 100vh;
+  background-size: contain;
+  background-color: black;
+  padding-left: 20px;
+  color: white;
+}
+
+.logo {
+  padding-top: 16px;
+  padding-left: 15px;
+}
+
+.nav a {
+  float: right;
+  padding: 0.7rem 1.2rem;
+  text-decoration: none;
+  color: aliceblue;
+  box-shadow: 0 0 0 1px gray;
+}
+
+.nav a:hover {
+  background: lightseagreen;
+}
+
+.title {
+  padding-top: 5rem;
+  padding-left: 3rem;
+  color: white;
+}
+
+.click {
+  padding-left: 4rem;
+  padding-top: 1.5rem;
+}
+
+.btn {
+  background: red;
+  border-radius: 20px;
+  color: white;
+  padding: 0.7rem 4rem;
+}
+
+.title {
+  font-family: "Poppins", sans-serif;
+}

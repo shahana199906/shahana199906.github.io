@@ -1,0 +1,23 @@
+.container  {
+    background: black;
+    width: 100%;
+    color: whitesmoke;
+}
+
+ .nav a{
+    float: right;
+    text-decoration: none;
+    color: aliceblue;
+    padding: 0.5rem 0.8rem;
+    box-shadow: 0 0 0 1px black;
+ }
+
+ .nav a:hover{
+    background: lightgreen;
+ }
+
+ .header{
+    font-size: 55px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+ }
